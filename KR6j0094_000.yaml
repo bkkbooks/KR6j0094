@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0094/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥師如來念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0924A.xml
+    old_id: T19n0924A
+hash: sha256:ca88360aa72afa04fa1700a1eafe42dcacb96855cdbc97b29a5ab4747fb0a580

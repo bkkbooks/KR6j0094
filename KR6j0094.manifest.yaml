@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0094/v1
+canonical_location: https://kanripo.org/bkk/KR6j0094/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 藥師如來念誦儀軌
+  identifiers:
+    alt_id:
+    - T19n0924A
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0924A.xml
+    old_id: T19n0924A
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0094_000.yaml, hash: 'sha256:ca88360aa72afa04fa1700a1eafe42dcacb96855cdbc97b29a5ab4747fb0a580'}
+  - {seq: 1, filename: KR6j0094_001.yaml, hash: 'sha256:633b2148310180782cefcbdbba03ea3369eae938d5c532561d29dfb3227a25ee'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0094_001.markers.yaml, hash: 'sha256:b4e33f4f2473626fd8e5b3b185de6f7864c9869c51c7ff358a11514d5357e90f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0094_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1280
+  label: 藥師如來念誦儀軌一卷
+  type: juan
+  level: 1
+hash: sha256:8b56047baae4737a72907e911ecf735bf2f9964cd4de9ed8c609ffd3c6fe3df6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
