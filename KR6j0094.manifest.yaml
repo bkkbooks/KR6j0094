@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0094_000.yaml, hash: 'sha256:ca88360aa72afa04fa1700a1eafe42dcacb96855cdbc97b29a5ab4747fb0a580'}
-  - {seq: 1, filename: KR6j0094_001.yaml, hash: 'sha256:633b2148310180782cefcbdbba03ea3369eae938d5c532561d29dfb3227a25ee'}
+  - {seq: 1, filename: KR6j0094_001.yaml, hash: 'sha256:aa1f34b4155cc26dbc91aa473424b931a7db294cc54bd806535ed4025cc01f61'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0094_001.markers.yaml, hash: 'sha256:b4e33f4f2473626fd8e5b3b185de6f7864c9869c51c7ff358a11514d5357e90f'}
+  - {seq: 0, role: markers, filename: assets/KR6j0094_000.markers.yaml, hash: 'sha256:e8fb723ba879abd4e8be496c6d63f88b6c3e5581f07f2e99e49c8203e40895a7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0094_001.markers.yaml, hash: 'sha256:97a3db60df21d4f6c74fa038f27609e6f430eb6f4f628201eaf40f10e74f7c12'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 藥師如來念誦儀軌一卷
   type: juan
   level: 1
-hash: sha256:8b56047baae4737a72907e911ecf735bf2f9964cd4de9ed8c609ffd3c6fe3df6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:28edd4a444b3870aa38e6597dbe8f0743ec48c710a602d497f5925f2aaa46861
