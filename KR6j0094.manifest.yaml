@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0094/v1
 canonical_location: https://kanripo.org/bkk/KR6j0094/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥師如來念誦儀軌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0094_000.yaml, hash: 'sha256:ca88360aa72afa04fa1700a1eafe42dcacb96855cdbc97b29a5ab4747fb0a580'}
-  - {seq: 1, filename: KR6j0094_001.yaml, hash: 'sha256:aa1f34b4155cc26dbc91aa473424b931a7db294cc54bd806535ed4025cc01f61'}
+  - {seq: 1, filename: KR6j0094_001.yaml, hash: 'sha256:b7233417783e0e1787495118c38a9cc2ed2b9cef112c028965ef85d4de523414'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0094_000.markers.yaml, hash: 'sha256:e8fb723ba879abd4e8be496c6d63f88b6c3e5581f07f2e99e49c8203e40895a7'}
-  - {seq: 1, role: markers, filename: assets/KR6j0094_001.markers.yaml, hash: 'sha256:97a3db60df21d4f6c74fa038f27609e6f430eb6f4f628201eaf40f10e74f7c12'}
+  - {seq: 1, role: markers, filename: assets/KR6j0094_001.markers.yaml, hash: 'sha256:ba0bfd545f07054cd33b0abfea8d22e40588954b3618b34783dc919955f4e97d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 藥師如來念誦儀軌一卷
   type: juan
   level: 1
-hash: sha256:28edd4a444b3870aa38e6597dbe8f0743ec48c710a602d497f5925f2aaa46861
+hash: sha256:3f266e7d217c38876f94e4bd3e94a072c2d95b32e2dabd67419d9ed0dee9ca16
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
